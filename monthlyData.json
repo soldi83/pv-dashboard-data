@@ -136,12 +136,12 @@
   },
   {
     "month": "2026-04",
-    "productionKwh": null,
-    "selfConsumedKwh": null,
-    "exportedKwh": null,
-    "gridPurchaseKwh": null,
+    "productionKwh": 698.94,
+    "selfConsumedKwh": 131.94,
+    "exportedKwh": 556.82,
+    "gridPurchaseKwh": 15.20,
     "electricityPrice": 0.3165,
-    "feedInTariff": 0.1
+    "feedInTariff": 0.07
   },
   {
     "month": "2026-05",
@@ -150,7 +150,7 @@
     "exportedKwh": null,
     "gridPurchaseKwh": null,
     "electricityPrice": 0.3165,
-    "feedInTariff": 0.1
+    "feedInTariff": 0.07
   },
   {
     "month": "2026-06",
@@ -159,7 +159,7 @@
     "exportedKwh": null,
     "gridPurchaseKwh": null,
     "electricityPrice": 0.3165,
-    "feedInTariff": 0.1
+    "feedInTariff": 0.07
   },
   {
     "month": "2026-07",
@@ -168,7 +168,7 @@
     "exportedKwh": null,
     "gridPurchaseKwh": null,
     "electricityPrice": 0.3165,
-    "feedInTariff": 0.1
+    "feedInTariff": 0.07
   },
   {
     "month": "2026-08",
@@ -177,7 +177,7 @@
     "exportedKwh": null,
     "gridPurchaseKwh": null,
     "electricityPrice": 0.3165,
-    "feedInTariff": 0.1
+    "feedInTariff": 0.07
   },
   {
     "month": "2026-09",
@@ -186,7 +186,7 @@
     "exportedKwh": null,
     "gridPurchaseKwh": null,
     "electricityPrice": 0.3165,
-    "feedInTariff": 0.1
+    "feedInTariff": 0.07
   },
   {
     "month": "2026-10",
