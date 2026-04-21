@@ -136,10 +136,10 @@
   },
   {
     "month": "2026-04",
-    "productionKwh": 1320.00,
-    "selfConsumedKwh": 343.35,
-    "exportedKwh": 958.51,
-    "gridPurchaseKwh": 39.71,
+    "productionKwh": 1450.00,
+    "selfConsumedKwh": 364.13,
+    "exportedKwh": 1070.00,
+    "gridPurchaseKwh": 40.23,
     "electricityPrice": 0.3165,
     "feedInTariff": 0.07
   },
