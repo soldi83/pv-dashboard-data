@@ -114,7 +114,7 @@
     "exportedKwh": 21.06,
     "gridPurchaseKwh": 803.79,
     "electricityPrice": 0.3165,
-    "feedInTariff": 0.1
+    "feedInTariff": 0.1422
   },
   {
     "month": "2026-02",
@@ -123,7 +123,7 @@
     "exportedKwh": 202.09,
     "gridPurchaseKwh": 404.41,
     "electricityPrice": 0.3165,
-    "feedInTariff": 0.1
+    "feedInTariff": 0.1422
   },
   {
     "month": "2026-03",
@@ -132,7 +132,7 @@
     "exportedKwh": 919.11,
     "gridPurchaseKwh": 219.92,
     "electricityPrice": 0.3165,
-    "feedInTariff": 0.1
+    "feedInTariff": 0.1422
   },
   {
     "month": "2026-04",
