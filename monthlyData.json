@@ -7,7 +7,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": 0.32,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2025-02",
@@ -17,7 +19,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": 0.32,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2025-03",
@@ -27,7 +31,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": 0.32,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2025-04",
@@ -37,7 +43,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": 0.32,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2025-05",
@@ -47,7 +55,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": 0.32,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2025-06",
@@ -57,7 +67,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": 0.32,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2025-07",
@@ -67,7 +79,9 @@
     "gridPurchaseKwh": 59.52,
     "electricityPrice": 0.32,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2025-08",
@@ -77,7 +91,9 @@
     "gridPurchaseKwh": 8.75,
     "electricityPrice": 0.32,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2025-09",
@@ -87,7 +103,9 @@
     "gridPurchaseKwh": 16.37,
     "electricityPrice": 0.32,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2025-10",
@@ -97,7 +115,9 @@
     "gridPurchaseKwh": 140.1,
     "electricityPrice": 0.32,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2025-11",
@@ -107,7 +127,9 @@
     "gridPurchaseKwh": 519.38,
     "electricityPrice": 0.32,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2025-12",
@@ -117,7 +139,9 @@
     "gridPurchaseKwh": 876.03,
     "electricityPrice": 0.32,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2026-01",
@@ -127,7 +151,9 @@
     "gridPurchaseKwh": 803.79,
     "electricityPrice": 0.3165,
     "feedInTariff": 0.1422,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2026-02",
@@ -137,7 +163,9 @@
     "gridPurchaseKwh": 404.41,
     "electricityPrice": 0.3165,
     "feedInTariff": 0.1422,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2026-03",
@@ -147,7 +175,9 @@
     "gridPurchaseKwh": 219.92,
     "electricityPrice": 0.3165,
     "feedInTariff": 0.1422,
-    "neighborExportKwh": 178.184
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2026-04",
@@ -157,7 +187,9 @@
     "gridPurchaseKwh": 44.04,
     "electricityPrice": 0.3165,
     "feedInTariff": 0.07,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2026-05",
@@ -167,7 +199,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": 0.3165,
     "feedInTariff": 0.07,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2026-06",
@@ -177,7 +211,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": 0.3165,
     "feedInTariff": 0.07,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2026-07",
@@ -187,7 +223,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": 0.3165,
     "feedInTariff": 0.07,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2026-08",
@@ -197,7 +235,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": 0.3165,
     "feedInTariff": 0.07,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2026-09",
@@ -207,7 +247,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": 0.3165,
     "feedInTariff": 0.07,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2026-10",
@@ -217,7 +259,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": 0.3165,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2026-11",
@@ -227,7 +271,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": 0.3165,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2026-12",
@@ -237,7 +283,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": 0.3165,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2027-01",
@@ -247,7 +295,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2027-02",
@@ -257,7 +307,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2027-03",
@@ -267,7 +319,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2027-04",
@@ -277,7 +331,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2027-05",
@@ -287,7 +343,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2027-06",
@@ -297,7 +355,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2027-07",
@@ -307,7 +367,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2027-08",
@@ -317,7 +379,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2027-09",
@@ -327,7 +391,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2027-10",
@@ -337,7 +403,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2027-11",
@@ -347,7 +415,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2027-12",
@@ -357,7 +427,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2028-01",
@@ -367,7 +439,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2028-02",
@@ -377,7 +451,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2028-03",
@@ -387,7 +463,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2028-04",
@@ -397,7 +475,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2028-05",
@@ -407,7 +487,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2028-06",
@@ -417,7 +499,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2028-07",
@@ -427,7 +511,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2028-08",
@@ -437,7 +523,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2028-09",
@@ -447,7 +535,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2028-10",
@@ -457,7 +547,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2028-11",
@@ -467,7 +559,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2028-12",
@@ -477,7 +571,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2029-01",
@@ -487,7 +583,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2029-02",
@@ -497,7 +595,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2029-03",
@@ -507,7 +607,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2029-04",
@@ -517,7 +619,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2029-05",
@@ -527,7 +631,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2029-06",
@@ -537,7 +643,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2029-07",
@@ -547,7 +655,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2029-08",
@@ -557,7 +667,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2029-09",
@@ -567,7 +679,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2029-10",
@@ -577,7 +691,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2029-11",
@@ -587,7 +703,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2029-12",
@@ -597,7 +715,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2030-01",
@@ -607,7 +727,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2030-02",
@@ -617,7 +739,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2030-03",
@@ -627,7 +751,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2030-04",
@@ -637,7 +763,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2030-05",
@@ -647,7 +775,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2030-06",
@@ -657,7 +787,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2030-07",
@@ -667,7 +799,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2030-08",
@@ -677,7 +811,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2030-09",
@@ -687,7 +823,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2030-10",
@@ -697,7 +835,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2030-11",
@@ -707,7 +847,9 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   },
   {
     "month": "2030-12",
@@ -717,6 +859,8 @@
     "gridPurchaseKwh": null,
     "electricityPrice": null,
     "feedInTariff": 0.1,
-    "neighborExportKwh": 0
+    "neighborExportKwh": 0,
+    "solarsplitTariff": 0.2,
+    "solarsplitServiceFee": 0.0325
   }
 ]
