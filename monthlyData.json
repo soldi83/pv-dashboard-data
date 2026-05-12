@@ -193,9 +193,9 @@
   },
   {
     "month": "2026-05",
-    "productionKwh": 803.58,
+    "productionKwh": 8030.58,
     "selfConsumedKwh": 200.93,
-    "exportedKwh": 595.04,
+    "exportedKwh": 5950.04,
     "gridPurchaseKwh": 3.74,
     "electricityPrice": 0.3165,
     "feedInTariff": 0.07,
