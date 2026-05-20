@@ -205,13 +205,13 @@
   },
   {
     "month": "2026-06",
-    "productionKwh": null,
-    "selfConsumedKwh": null,
-    "exportedKwh": null,
-    "gridPurchaseKwh": null,
+    "productionKwh": 180000,
+    "selfConsumedKwh": 40000,
+    "exportedKwh": 120000,
+    "gridPurchaseKwh": 2000,
     "electricityPrice": 0.3165,
     "feedInTariff": 0.07,
-    "neighborExportKwh": 0,
+    "neighborExportKwh": 20000,
     "solarsplitTariff": 0.2,
     "solarsplitServiceFee": 0.0325
   },
