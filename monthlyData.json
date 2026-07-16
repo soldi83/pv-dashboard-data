@@ -211,7 +211,7 @@
     "gridPurchaseKwh": 8.31,
     "electricityPrice": 0.3165,
     "feedInTariff": 0.07,
-    "neighborExportKwh": null,
+    "neighborExportKwh": 435.495,
     "solarsplitTariff": 0.2,
     "solarsplitServiceFee": 0.0325
   },
