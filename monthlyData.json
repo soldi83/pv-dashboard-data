@@ -296,7 +296,7 @@
     "electricityPrice": null,
     "feedInTariff": 0.1,
     "neighborExportKwh": 0,
-    "solarsplitTariff": 0.2,
+    "solarsplitTariff": 0.18,
     "solarsplitServiceFee": 0.0325
   },
   {
@@ -308,7 +308,7 @@
     "electricityPrice": null,
     "feedInTariff": 0.1,
     "neighborExportKwh": 0,
-    "solarsplitTariff": 0.2,
+    "solarsplitTariff": 0.18,
     "solarsplitServiceFee": 0.0325
   },
   {
@@ -320,7 +320,7 @@
     "electricityPrice": null,
     "feedInTariff": 0.1,
     "neighborExportKwh": 0,
-    "solarsplitTariff": 0.2,
+    "solarsplitTariff": 0.18,
     "solarsplitServiceFee": 0.0325
   },
   {
@@ -330,9 +330,9 @@
     "exportedKwh": null,
     "gridPurchaseKwh": null,
     "electricityPrice": null,
-    "feedInTariff": 0.1,
+    "feedInTariff": 0.07,
     "neighborExportKwh": 0,
-    "solarsplitTariff": 0.2,
+    "solarsplitTariff": 0.18,
     "solarsplitServiceFee": 0.0325
   },
   {
@@ -342,9 +342,9 @@
     "exportedKwh": null,
     "gridPurchaseKwh": null,
     "electricityPrice": null,
-    "feedInTariff": 0.1,
+    "feedInTariff": 0.07,
     "neighborExportKwh": 0,
-    "solarsplitTariff": 0.2,
+    "solarsplitTariff": 0.18,
     "solarsplitServiceFee": 0.0325
   },
   {
@@ -354,9 +354,9 @@
     "exportedKwh": null,
     "gridPurchaseKwh": null,
     "electricityPrice": null,
-    "feedInTariff": 0.1,
+    "feedInTariff": 0.07,
     "neighborExportKwh": 0,
-    "solarsplitTariff": 0.2,
+    "solarsplitTariff": 0.18,
     "solarsplitServiceFee": 0.0325
   },
   {
@@ -366,9 +366,9 @@
     "exportedKwh": null,
     "gridPurchaseKwh": null,
     "electricityPrice": null,
-    "feedInTariff": 0.1,
+    "feedInTariff": 0.07,
     "neighborExportKwh": 0,
-    "solarsplitTariff": 0.2,
+    "solarsplitTariff": 0.18,
     "solarsplitServiceFee": 0.0325
   },
   {
@@ -378,9 +378,9 @@
     "exportedKwh": null,
     "gridPurchaseKwh": null,
     "electricityPrice": null,
-    "feedInTariff": 0.1,
+    "feedInTariff": 0.07,
     "neighborExportKwh": 0,
-    "solarsplitTariff": 0.2,
+    "solarsplitTariff": 0.18,
     "solarsplitServiceFee": 0.0325
   },
   {
@@ -390,9 +390,9 @@
     "exportedKwh": null,
     "gridPurchaseKwh": null,
     "electricityPrice": null,
-    "feedInTariff": 0.1,
+    "feedInTariff": 0.07,
     "neighborExportKwh": 0,
-    "solarsplitTariff": 0.2,
+    "solarsplitTariff": 0.18,
     "solarsplitServiceFee": 0.0325
   },
   {
@@ -404,7 +404,7 @@
     "electricityPrice": null,
     "feedInTariff": 0.1,
     "neighborExportKwh": 0,
-    "solarsplitTariff": 0.2,
+    "solarsplitTariff": 0.18,
     "solarsplitServiceFee": 0.0325
   },
   {
@@ -416,7 +416,7 @@
     "electricityPrice": null,
     "feedInTariff": 0.1,
     "neighborExportKwh": 0,
-    "solarsplitTariff": 0.2,
+    "solarsplitTariff": 0.18,
     "solarsplitServiceFee": 0.0325
   },
   {
@@ -428,7 +428,7 @@
     "electricityPrice": null,
     "feedInTariff": 0.1,
     "neighborExportKwh": 0,
-    "solarsplitTariff": 0.2,
+    "solarsplitTariff": 0.18,
     "solarsplitServiceFee": 0.0325
   },
   {
