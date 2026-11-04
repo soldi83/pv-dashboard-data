@@ -296,7 +296,7 @@
     "neighborExportKwh": 0,
     "solarsplitTariff": 0.2,
     "solarsplitServiceFee": 0.0325,
-    "evChargingKwh": null
+    "evChargingKwh": 10
   },
   {
     "month": "2026-12",
