@@ -287,16 +287,16 @@
   },
   {
     "month": "2026-11",
-    "productionKwh": null,
-    "selfConsumedKwh": null,
-    "exportedKwh": null,
-    "gridPurchaseKwh": null,
+    "productionKwh": 44.56,
+    "selfConsumedKwh": 34.16,
+    "exportedKwh": 11.57,
+    "gridPurchaseKwh": 141.81,
     "electricityPrice": 0.3165,
     "feedInTariff": 0.1,
     "neighborExportKwh": 0,
     "solarsplitTariff": 0.2,
     "solarsplitServiceFee": 0.0325,
-    "evChargingKwh": null
+    "evChargingKwh": 64.5
   },
   {
     "month": "2026-12",
